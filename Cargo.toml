@@ -1,0 +1,5 @@
+[workspace]
+members = ["humfig-core", "humfig-cli"]
+default-members = ["humfig-core"]
+package.version = "0.1.0"
+package.edition = "2021"
